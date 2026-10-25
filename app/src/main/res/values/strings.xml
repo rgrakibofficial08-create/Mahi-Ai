@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mahi AI</string>
+    <string name="assistant_title">মাহী এআই</string>
+    <string name="assistant_subtitle">আপনার ব্যক্তিগত বাংলা ভয়েস সহকারী</string>
+</resources>

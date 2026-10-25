@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI",
+  "description": "স্মার্ট বাংলা ভয়েস অ্যাসিস্ট্যান্ট — কথা শুনবে, অ্যাপ খুলবে এবং নির্ভুল উত্তর দেবে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
